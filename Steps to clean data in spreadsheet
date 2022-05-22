@@ -1,0 +1,18 @@
+Always leave a origin copy of the data for reference purpose
+Remove duplicates w Data option in Tool bar
+Check the format of the data (UPPER,LOWER,PROPER) (number formating)
+Add a filter to spell check  (Find & Replace) (Review - spelling)
+TRIM(cell)
+consider if you need to change currency into number for different purposes
+Make sure all date-time is in the same format (you might not see it just with filter)
+Data phasing from Text to Column w Data option in Tool bar(when one column contains two separate infos e.g. carbrand_carmodel)
+Remove all formatting w "clear" tool bar (conditional formatting-clear rules)
+Delete columns that you don't need
+General Tips: 
+If you have data in Excel that you want to use to create a dashboard, there are a couple of things you’ll want to do first to make sure everything goes well.
+ 
+1. Ensure your data is free of error cells, as this will result in errors.
+2. Have proper headings setup so that you know what you are referencing in your dashboard. 
+3. Setup a named range for your data, ideally a dynamic one. This will make it easier to link everything to your data quickly and easily.
+
+Making sure your data is clean and ready to go is the most important step, but unfortunately the one that is easily overlooked. After all, if you’re data is no good, your outputs won’t be either. Garbage in, garbage out.
